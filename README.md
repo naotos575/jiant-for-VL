@@ -1,5 +1,5 @@
 # jiant-for-VL
-これはjiantをベースにVisualBERTとLXMERTの言語的知識を分析できるようにしたレポジトリです。
+これは[jiant](https://github.com/nyu-mll/jiant-v1-legacy#)をベースにVisualBERTとLXMERTの言語的知識を分析できるようにしたレポジトリです。
 
 ## Getting Started
 言語知識に関するデータセットは./probing/dataのスクリプトから取得してください。ただし、データセットは一部有料のため、本レポジトリでは共有できません。
