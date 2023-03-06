@@ -12,4 +12,4 @@ depok.ymlと同じ環境を用意してください。
 ## Acknowledgments
 このモデルはjiantをベースに使用したものです。下記のレポジトリーを参照してください。
 
-- https://github.com/nyu-mll/jiant-v1-legacy# jiant-for-VL
+- https://github.com/nyu-mll/jiant-v1-legacy#
