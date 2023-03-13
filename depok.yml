@@ -230,4 +230,3 @@ dependencies:
       - word2number==1.1
       - zope-event==4.5.0
       - zope-interface==5.5.2
-prefix: /home/is/naoto-sh/.pyenv/versions/miniconda3-4.7.12/envs/depok
